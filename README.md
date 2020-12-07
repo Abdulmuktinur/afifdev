@@ -18,5 +18,5 @@ Whois:
 - 📫 Reach me on my instagram @afifvdin
 - ✉️ e-mail: antelle.net@gmail.com
     
-Open-source projects I made:
+Open-source projects I collaborate:
 - 🗝️ reavault, Open-Source and Self-Secure Password Manager 
