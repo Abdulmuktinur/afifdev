@@ -12,11 +12,11 @@ Whois:
 - ⚡ Fun fact: ...
 -->
 - 💰 Full-Stack Developer | Wanna be Hacker
-- 🔨 A Lot JavaScript
+- 🔨 A Lot of JavaScript
 - 🕸️ Continous-Learning
 - 🌱 Still learning JavaScript
 - 📫 Reach me on my instagram @afifvdin
-- ✉️ e-mail: antelle.net@gmail.com
+- ✉️ e-mail: afifudin.fdn@gmail.com
     
 Open-source projects I collaborate:
 - 🗝️ reavault, Open-Source and Self-Secure Password Manager 
