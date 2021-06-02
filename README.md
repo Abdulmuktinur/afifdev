@@ -11,12 +11,12 @@ Whois:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💰 Full-Stack Developer | Wanna be Hacker
-- 🔨 A Lot of JavaScript
-- 🕸️ Continous-Learning
-- 🌱 Still learning JavaScript
-- 📫 Reach me on my instagram @afifvdin
+- 💰 FrontEnd Developer
+- 🌱 Constant Learning
+- 🔨 I build my most thing with JS
+- 📫 Reach me on my instagram @afifdev
 - ✉️ e-mail: afifudin.fdn@gmail.com
+- linktr.ee/afifudin
     
 Open-source projects I collaborate:
 - 🗝️ [reavault](https://github.com/afifvdin/reavault), Open-Source and Self-Secure Password Manager 
